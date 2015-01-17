@@ -1,0 +1,2 @@
+# transmissioninator
+Capistrano-Docker Transmission
